@@ -1,3 +1,5 @@
+/* the images have an attribute of width="100%" which produces an error.  The example from w3schools using style="width:100%" which will not produce an error*/
+
 * {
 	box-sizing: border-box
 }
